@@ -1,0 +1,52 @@
+relacionamento das 11 questões (SO I) com as perguntas dissertativas/induzidas
+
+1- hd (8 ,9)
+2- post/bios (10)
+3 carrega núcleo do hd ssd (11)
+4 escalonamento
+5 questão cotidiano escalonamento (12)
+6 so prograam usuário e escalonamento (13)
+7 multitarefa (14, 15) 
+8 processos
+9 memoria ram armazenamento temporário (16, 17, 18, 19)
+10 particionamento de memoria ram (19, 20)
+11 ram particionada na inicialização (21)
+
+relacionamento das questões seguintes com as perguntas dissertativas/induzidas (SO II)
+
+blocos -> 22
+contigua1 -> 23
+contigua2 -> 23
+encadeada1 -> 24
+encadeada2 -> 24
+encadeada3 -> 24
+indexada1 -> 25
+indexada2 -> 25
+contexto -> 26
+trocacontexto -> 27
+tabelaprocesso -> 28
+armzprocesso -> 28
+mutex -> 29
+monopolio -> 30
+chamada_sistema -> 31
+envio_com -> 32
+chamada_procedimento -> 33
+interrupcao -> 34
+rotina_tratamento -> 35
+vetores_interrupcao -> 36
+driver -> 37
+analogia_driver -> 38
+atomicidade -> 39
+ciclo_vida_processo -> 40
+thread_processo -> 41
+modos_execucao -> 42
+multi_nucleo -> 43
+prioridade -> 44
+condição_corrida -> 45
+regiao_critica -> 46
+problemas_classicos -> 47
+deadlock -> 48
+comparacao -> 49
+mmu -> 50
+
+FALTANDO: 1, 2, 3, 4, 5, 6, 7
